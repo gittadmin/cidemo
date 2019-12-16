@@ -12,7 +12,7 @@
 <body>
 <div class="container">
     <jsp:include page="fragments/bodyHeader.jsp"/>
-    <h2>Welcome to LTTS Devops Pipleline DEMO ONE</h2>
+    <h2>Welcome to LTTS Devops Pipleline DEMO TWO</h2>
     <spring:url value="/resources/images/pets.png" htmlEscape="true" var="petsImage"/>
     <img src="${petsImage}"/>
 
